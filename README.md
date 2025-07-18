@@ -10,7 +10,7 @@
 <p>
   <img 
     align="left" 
-    src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" 
+    src="https://octodex.github.com/images/neurocats_FULL.png" 
     width="300" 
     height="300"  
     style="
